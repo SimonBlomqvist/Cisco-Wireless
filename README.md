@@ -1,6 +1,7 @@
 AireOS-to-9800.py
 
 Before Migration
+
   Use the python script ”AireOS-to-9800.py” to get config files for new WLCs.
   Configure new WLCs and make sure HA SSO is working.
     Reload both WLC.
